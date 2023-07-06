@@ -1,6 +1,6 @@
 # Su Hatırlatıcısı
 
-Bünyamin Arıcı.
+YMH455_BitirmeProjesi_170541043_Bünyamin Arıcı
 
 ## Su İçmeyi Hatırlatma Uygulaması
 
